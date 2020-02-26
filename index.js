@@ -3,3 +3,4 @@ var JSON3 = {
     stringify: JSON.stringify
 };
 module.exports = JSON3;
+module.exports.default = JSON3;
